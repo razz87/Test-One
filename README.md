@@ -1,4 +1,4 @@
 Test-One
 ========
 
-Test One Repository
+Test one repository
